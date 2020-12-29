@@ -7,3 +7,9 @@
     background-image:url('./underConstruction.jpg');
     background-size:cover;
 }
+
+.navbar{
+    background-color:black; /*whichever you want*/
+    opacity: 0.6; 
+    filter:(opacity=60);  
+}

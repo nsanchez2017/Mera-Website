@@ -15,24 +15,19 @@
 </head>
 
 <body>
-  <nav class="navbar navbar-expand-sm fixed-top navbar-light">
+  <nav class="navbar navbar-expand-sm fixed-top navbar-dark">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Brand</a>
+      <a class="navbar-brand" href="#">MERA</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbar1">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link" href="#">Link</a>
+            <a class="nav-link" href="#">Home</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-        </ul>
-        <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#">Link</a>
+            <a class="nav-link" href="#">About Us</a>
           </li>
         </ul>
       </div>

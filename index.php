@@ -16,7 +16,6 @@
 <header class="home-image">
 
 </header>
-
 <body>
   <?php include "nav.php"; ?>
 </body>
