@@ -6,10 +6,32 @@
     height:1000px;
     background-image:url('./underConstruction.jpg');
     background-size:cover;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.bottom{
+    display:flex;
+    align-items: flex-end;
 }
 
 .navbar{
     background-color:black; /*whichever you want*/
     opacity: 0.6; 
     filter:(opacity=60);  
+}
+
+.home-image-text{
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+
+}
+
+.some-padding{
+    padding: 100px !important;
 }
