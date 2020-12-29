@@ -15,11 +15,8 @@
 </head>
 
 <body>
-  <header class="home-image">
-
-  </header>
   <nav class="navbar navbar-expand-sm fixed-top navbar-light">
-    <div class="container">
+    <div class="container-fluid">
       <a class="navbar-brand" href="#">Brand</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1">
         <span class="navbar-toggler-icon"></span>
