@@ -13,3 +13,7 @@
     opacity: 0.6; 
     filter:(opacity=60);  
 }
+
+.topnav-right {
+    float: right;
+  }
