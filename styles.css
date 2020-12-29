@@ -1,0 +1,9 @@
+.hidden-spacer {
+    height: 56px
+}
+
+.home-image{
+    height:1000px;
+    background-image:url('./underConstruction.jpg');
+    background-size:cover;
+}
