@@ -22,6 +22,15 @@
     filter:(opacity=60);  
 }
 
+.light-green-color{
+    color: #34f5c5;
+    background-color: #34f5c5;
+}
+
+.dark-green-color{
+    color: #21d0b2
+}
+
 .home-image-text{
     color: white;
     text-shadow:
@@ -34,4 +43,17 @@
 
 .some-padding{
     padding: 100px !important;
+}
+
+
+
+.btn, .btn:active, .btn:hover, .btn:focus, .btn:active, .btn-primary:focus .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited, .btn-primary:active:focus, .btn-outline-primary {
+    background-color: #21d0b2 !important;
+    outline-color: #21d0b2 !important;
+    border-color: #21d0b2 !important;
+    box-shadow: none !important;
+}
+
+footer{
+    background-color: #000;
 }

@@ -22,7 +22,7 @@
       <div class="col-6 text-center">
         <h4 class="text-center home-image-text text-wrap">When it come to home repairs, maintenance, and cleaning we provide the best services in Brevard County.</h4>
         <br>
-        <a href="" class="btn btn-primary btn-lg active home-image-text" role="button" aria-pressed="true">Contact Us</a>
+        <a href="" class="btn btn-primary btn-lg active light-green-color" role="button" aria-pressed="true">Contact Us</a>
       </div>
 
       <div class="col-7 some-padding">
@@ -34,13 +34,20 @@
 
 <body>
   <?php include "nav.php"?>
-  <div class="container pt-5">
+  <div class="container pt-4">
     <div class="row">
       <div class="col-12">
-        <h3 class = "text-center">WHAT WE DO</h3>
+        <h3 class = "text-center dark-green-color">Business Hours</h3>
+        <h5 class = "text-center">Monday-Saturday: 8:00AM to 6:30PM</h4>
+        <h5 class = "text-center">Sunday: 9:00AM to 5:30PM</h4>
       </div>
     </div>
   </div>
+  &nbsp;
 </body>
+
+<footer>
+  <?php include "footer.php"?>
+</footer>
 
 </html>
