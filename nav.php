@@ -18,7 +18,7 @@
 </header>
 <nav class="navbar navbar-expand-sm fixed-top navbar-dark">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="index.php">
           <img src="./homeIcon.jpg" width="30" height="30" alt="" >
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1">
@@ -27,7 +27,7 @@
         <div class="collapse navbar-collapse justify-content-center" id="navbar1">
             <ul class="navbar-nav">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">HOME</a>
+                    <a class="nav-link" href="index.php">HOME</a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="#">OUR SERVICES</a>
@@ -36,7 +36,7 @@
                     <a class="nav-link" href="#">CONTACT US</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">ABOUT US</a>
+                    <a class="nav-link" href="about.php">ABOUT US</a>
                 </li>
             </ul>
         </div>

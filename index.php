@@ -22,7 +22,7 @@
       <div class="col-6 text-center">
         <h4 class="text-center home-image-text text-wrap">When it come to home repairs, maintenance, and cleaning we provide the best services in Brevard County.</h4>
         <br>
-        <a href="" class="btn btn-primary btn-lg active home-image-text" role="button" aria-pressed="true">Contact Us</a>
+        <a href="" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Contact Us</a>
       </div>
 
       <div class="col-7 some-padding">
