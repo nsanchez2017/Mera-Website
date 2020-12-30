@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
 
@@ -9,30 +8,39 @@
   <meta name="author" content="Logan Darling">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <link href="styles.css" rel="stylesheet">
 
 </head>
-
 <body>
-  <nav class="navbar navbar-expand-sm fixed-top navbar-dark">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="#">MERA</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbar1">
-        <ul class="navbar-nav">
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Home</a>
-          </li>
-          <li class="nav-item active">
-            <a class="nav-link" href="#">About Us</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
-</body>
+<header>
 
+</header>
+<nav class="navbar navbar-expand-sm fixed-top navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="index.php">
+          <img src="./homeIcon.jpg" width="30" height="30" alt="" >
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-center" id="navbar1">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.php">HOME</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">OUR SERVICES</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">CONTACT US</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="about.php">ABOUT US</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+</body>
 </html>
