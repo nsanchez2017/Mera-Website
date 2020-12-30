@@ -2,18 +2,24 @@
     height: 56px
 }
 
-.home-image{
-    height:1000px;
-    background-image:url('./underConstruction.jpg');
-    background-size:cover;
+.home-image {
+    height: 1000px;
+    background-image: url('./underConstruction.jpg');
+    background-size: cover;
 }
 
-.navbar{
-    background-color:black; /*whichever you want*/
-    opacity: 0.6; 
-    filter:(opacity=60);  
+.navbar {
+    justify-content: center;
+    background-color: black;
+    /*whichever you want*/
+    opacity: 0.6;
+    filter: (opacity=60);
 }
 
-.topnav-right {
-    float: right;
-  }
+.nav-item {
+    padding: 0px 10px 0px 10px;
+}
+
+.navbar-brand {
+    padding: 0px 10px 0px 10px;
+}

@@ -20,21 +20,23 @@
     <div class="container-fluid">
         <a class="navbar-brand" href="#">
           <img src="./homeIcon.jpg" width="30" height="30" alt="" >
-        Mera Handymen and Cleaning Services
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbar1">
-            <ul class="navbar-nav ml-auto">
+        <div class="collapse navbar-collapse justify-content-center" id="navbar1">
+            <ul class="navbar-nav">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Home</a>
+                    <a class="nav-link" href="#">HOME</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">About Us</a>
+                    <a class="nav-link" href="#">OUR SERVICES</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Link</a>
+                    <a class="nav-link" href="#">CONTACT US</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">ABOUT US</a>
                 </li>
             </ul>
         </div>
