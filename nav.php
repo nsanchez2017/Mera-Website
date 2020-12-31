@@ -19,7 +19,7 @@
 <nav class="navbar navbar-expand-sm fixed-top navbar-dark">
     <div class="container-fluid">
         <a class="navbar-brand" href="index.php">
-          <img src="./homeIcon.jpg" width="30" height="30" alt="" >
+          <img src="./homeIcon.jpeg" width="30" height="30" alt="" >
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1">
             <span class="navbar-toggler-icon"></span>

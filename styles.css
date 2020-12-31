@@ -4,7 +4,7 @@
 
 .home-image {
     height: 1000px;
-    background-image: url('./underConstruction.jpg');
+    background-image: url('./homeImage.jpeg');
     background-size: cover;
     display: flex;
     justify-content: center;
