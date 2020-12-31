@@ -40,6 +40,12 @@
         <h3 class = "text-center dark-green-color">Business Hours</h3>
         <h5 class = "text-center">Monday-Saturday: 8:00AM to 6:30PM</h4>
         <h5 class = "text-center">Sunday: 9:00AM to 5:30PM</h4>
+        <h5 class="text-center">Call us at </h5>
+      </div>
+      &nbsp;
+      <div class="col-12">
+      <h3 class="text-center dark-green-color">What we do</h3>
+
       </div>
     </div>
   </div>
