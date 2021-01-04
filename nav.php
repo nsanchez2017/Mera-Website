@@ -33,7 +33,7 @@
                     <a class="nav-link" href="#">OUR SERVICES</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">CONTACT US</a>
+                    <a class="nav-link" href="contactus.php">CONTACT US</a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="about.php">ABOUT US</a>
