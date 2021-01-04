@@ -11,28 +11,34 @@
     align-items: center;
 }
 
+.about-image {
+    height: 1000px;
+    background-image: url('./homeImage.jpeg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .bottom {
     display: flex;
     align-items: flex-end;
 }
 
 .navbar {
-    background-color: black;
-    /*whichever you want*/
-    opacity: 0.6;
-    filter: (opacity=60);
+    background-color: #2f455c;
 }
 
-.light-green-color{
+.light-green-color {
     color: #34f5c5;
     background-color: #34f5c5;
 }
 
-.dark-green-color{
+.dark-green-color {
     color: #21d0b2
 }
 
-.home-image-text{
+.home-image-text {
     color: white;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
@@ -41,15 +47,23 @@
     padding: 100px !important;
 }
 
-
-
-.btn, .btn:active, .btn:hover, .btn:focus, .btn:active, .btn-primary:focus .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited, .btn-primary:active:focus, .btn-outline-primary {
+.btn,
+.btn:active,
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn-primary:focus .btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:active:focus,
+.btn-outline-primary {
     background-color: #21d0b2 !important;
     outline-color: #21d0b2 !important;
     border-color: #21d0b2 !important;
     box-shadow: none !important;
 }
 
-footer{
+footer {
     background-color: #000;
 }
