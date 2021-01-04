@@ -11,31 +11,37 @@
     align-items: center;
 }
 
+.about-image {
+    height: 1000px;
+    background-image: url('./homeImage.jpeg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .bottom {
     display: flex;
     align-items: flex-end;
 }
 
 .navbar {
-    background-color: black;
-    /*whichever you want*/
-    opacity: 0.6;
-    filter: (opacity=60);
+    background-color: #2f455c;
 }
 
-.light-green-color{
+.light-green-color {
     color: #34f5c5;
 }
 
-.dark-green-color{
+.dark-green-color {
     color: #21d0b2
 }
 
-.dark-blue-color{
+.dark-blue-color {
     color: #3172d3;
 }
 
-.home-image-text{
+.home-image-text {
     color: white;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
@@ -44,38 +50,65 @@
     padding: 100px !important;
 }
 
-
-
-.btn, .btn:active, .btn:hover, .btn:focus, .btn:active, .btn-primary:focus .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited, .btn-primary:active:focus, .btn-outline-primary {
+.btn,
+.btn:active,
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn-primary:focus .btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:active:focus,
+.btn-outline-primary {
     background-color: #21d0b2 !important;
     outline-color: #21d0b2 !important;
     border-color: #21d0b2 !important;
     box-shadow: none !important;
 }
 
-footer{
+footer {
     background-color: #000;
 }
 
-
 @media (min-width: 0px) {
-    html { font-size: .65rem; }
+    html {
+        font-size: .65rem;
+    }
 }
+
 @media (min-width: 576px) {
-    html { font-size: .70rem; }
+    html {
+        font-size: .70rem;
+    }
 }
+
 @media (min-width: 768px) {
-    html { font-size: .75rem; }
+    html {
+        font-size: .75rem;
+    }
 }
+
 @media (min-width: 992px) {
-    html { font-size: .80rem; }
+    html {
+        font-size: .80rem;
+    }
 }
+
 @media (min-width: 1200px) {
-    html { font-size: 1rem; }
+    html {
+        font-size: 1rem;
+    }
 }
+
 #contactus {
     height: 60vh;
 }
-.row-offset{
+
+.row-offset {
     margin-top: 10vh;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
 }
