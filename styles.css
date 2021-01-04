@@ -108,3 +108,7 @@ footer {
 .row-offset {
     margin-top: 10vh;
 }
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
