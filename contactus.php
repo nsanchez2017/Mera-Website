@@ -20,12 +20,12 @@
 <body>
   
   <div id="contactus" class="container">
-    <div class="row row-offset">
+    <div class="row row-offset row-fluid">
       <div class="col">
         <h1 class="text-center dark-green-color"> Contact Us </h1>
       </div>
     </div>
-    <div class="row">
+    <div class="row row-fluid">
       <div class="col">
         <h1 class="text-left"> Phone Number </h1>
       </div>
@@ -33,7 +33,7 @@
         <h1 class="text-left"> 321-301-5848 </h1>
       </div>
     </div>
-    <div class="row">
+    <div class="row row-fluid">
       <div class="col">
         <h1 class="text-left"> Email </h1>
       </div>
